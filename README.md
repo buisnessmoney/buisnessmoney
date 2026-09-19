@@ -1,24 +1,10 @@
-# Hi, I'm Anatoliy 👋
+# Hi, I'm Anatoliy
 
-I'm a software developer focused on building practical applications.
-
-Currently working on iOS development with Swift and exploring machine learning projects with Python.
+I'm a developer focused on machine learning and data-driven applications. I also build iOS applications with Swift.
 
 ## Projects
 
-### 📱 SubsTrack
-
-iOS client-server application for tracking subscriptions and recurring payments.
-
-Stack:
-- Swift
-- SwiftUI
-- MVVM
-- async/await
-- REST API
-- FastAPI
-
-### 📊 Avito Demand Prediction
+### Avito Demand Prediction
 
 Machine learning project for predicting advertisement deal probability.
 
@@ -38,6 +24,17 @@ Highlights:
 - Text modeling
 - Model blending
 
+### SubsTrack
+
+iOS client-server application for tracking subscriptions and recurring payments.
+
+Stack:
+- Swift
+- SwiftUI
+- MVVM
+- async/await
+- REST API
+- FastAPI
 
 ## iOS Development
 
@@ -50,23 +47,27 @@ Highlights:
 - URLSession
 - REST API
 
-
 ## Machine Learning / Data
 
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
 - CatBoost
 - Jupyter
 - Feature Engineering
 - NLP basics
+- Polars
+- DuckDB
 
 
 ## Backend
 
 - Python
 - FastAPI
+- PostgreSQL
 
 
 ## Tools
